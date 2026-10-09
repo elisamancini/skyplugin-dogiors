@@ -1,6 +1,6 @@
 [
   {
-    "id": "com.manuel09.skyplugin.streamingcommunity",
+    "id": "com.finch.skyplugin.streamingcommunity",
     "name": "StreamingCommunity",
     "packageName": "com.manuel09.skyplugin.streamingcommunity",
     "version": "1.0.1",
@@ -11,7 +11,7 @@
     "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/StreamingCommunity/manifest.json"
   },
   {
-    "id": "com.manuel09.skyplugin.altadefinizione",
+    "id": "com.finch.skyplugin.altadefinizione",
     "name": "AltaDefinizione",
     "packageName": "com.manuel09.skyplugin.altadefinizione",
     "version": "1.0.0",
@@ -22,7 +22,7 @@
     "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/AltaDefinizione/manifest.json"
   },
   {
-    "id": "com.manuel09.skyplugin.animeunity",
+    "id": "com.finch.skyplugin.animeunity",
     "name": "AnimeUnity",
     "packageName": "com.manuel09.skyplugin.animeunity",
     "version": "1.0.0",
@@ -33,7 +33,7 @@
     "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/AnimeUnity/manifest.json"
   },
   {
-    "id": "com.manuel09.skyplugin.animeworld",
+    "id": "com.finch.skyplugin.animeworld",
     "name": "AnimeWorld",
     "packageName": "com.manuel09.skyplugin.animeworld",
     "version": "1.0.0",
@@ -44,7 +44,7 @@
     "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/AnimeWorld/manifest.json"
   },
   {
-    "id": "com.manuel09.skyplugin.cb01",
+    "id": "com.finch.skyplugin.cb01",
     "name": "CB01",
     "packageName": "com.manuel09.skyplugin.cb01",
     "version": "1.0.0",
@@ -55,7 +55,7 @@
     "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/CB01/manifest.json"
   },
   {
-    "id": "com.manuel09.skyplugin.onlineserietv",
+    "id": "com.finch.skyplugin.onlineserietv",
     "name": "OnlineSerieTV",
     "packageName": "com.manuel09.skyplugin.onlineserietv",
     "version": "1.0.0",

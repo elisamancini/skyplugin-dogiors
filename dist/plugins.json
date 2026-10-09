@@ -1,0 +1,200 @@
+[
+  {
+    "packageName": "com.manuel09.skyplugin.streamingcommunity",
+    "name": "StreamingCommunity",
+    "version": 1,
+    "baseUrl": "https://streamingunity.biz",
+    "description": "Italian movies and TV series from StreamingCommunity",
+    "authors": ["doGior"],
+    "languages": ["it"],
+    "categories": ["Movies", "Series"],
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.streamingcommunity.sky"
+  },
+  {
+    "packageName": "com.manuel09.skyplugin.altadefinizione",
+    "name": "AltaDefinizione",
+    "version": 1,
+    "baseUrl": "https://altadefinizione.li",
+    "description": "Italian movies and TV series from AltaDefinizione",
+    "authors": ["doGior"],
+    "languages": ["it"],
+    "categories": ["Movies"],
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.altadefinizione.sky"
+  },
+  {
+    "packageName": "com.manuel09.skyplugin.animeunity",
+    "name": "AnimeUnity",
+    "version": 1,
+    "baseUrl": "https://animeunity.it",
+    "description": "Italian anime from AnimeUnity",
+    "authors": ["doGior"],
+    "languages": ["it"],
+    "categories": ["Anime"],
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.animeunity.sky"
+  },
+  {
+    "packageName": "com.manuel09.skyplugin.animeworld",
+    "name": "AnimeWorld",
+    "version": 1,
+    "baseUrl": "https://animeworld.tv",
+    "description": "Italian anime from AnimeWorld",
+    "authors": ["doGior"],
+    "languages": ["it"],
+    "categories": ["Anime"],
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.animeworld.sky"
+  },
+  {
+    "packageName": "com.manuel09.skyplugin.cb01",
+    "name": "CB01",
+    "version": 1,
+    "baseUrl": "https://cb01.tube",
+    "description": "Italian movies and TV series from CB01",
+    "authors": ["doGior"],
+    "languages": ["it"],
+    "categories": ["Movies", "Series"],
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.cb01.sky"
+  },
+  {
+    "packageName": "com.manuel09.skyplugin.arte",
+    "name": "Arte",
+    "version": 1,
+    "baseUrl": "https://www.arte.tv/it",
+    "description": "Documentaries and cultural content from Arte.tv",
+    "authors": ["doGior"],
+    "languages": ["it"],
+    "categories": ["Movies", "Documentaries"],
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.arte.sky"
+  },
+  {
+    "packageName": "com.manuel09.skyplugin.calciostreaming",
+    "name": "CalcioStreaming",
+    "version": 1,
+    "baseUrl": "https://calciostreaming.click",
+    "description": "Italian football/soccer live streams",
+    "authors": ["doGior"],
+    "languages": ["it"],
+    "categories": ["Sports", "Live Stream"],
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.calciostreaming.sky"
+  },
+  {
+    "packageName": "com.manuel09.skyplugin.daddylive",
+    "name": "DaddyLive",
+    "version": 1,
+    "baseUrl": "https://daddyhd.com",
+    "description": "Live TV channels from DaddyLive",
+    "authors": ["doGior"],
+    "languages": ["en"],
+    "categories": ["Live Stream", "TV"],
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.daddylive.sky"
+  },
+  {
+    "packageName": "com.manuel09.skyplugin.huhu",
+    "name": "Huhu",
+    "version": 1,
+    "baseUrl": "https://huhu.to",
+    "description": "Italian live TV channels from Huhu",
+    "authors": ["doGior"],
+    "languages": ["it"],
+    "categories": ["Live Stream", "TV"],
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.huhu.sky"
+  },
+  {
+    "packageName": "com.manuel09.skyplugin.nebula",
+    "name": "Nebula",
+    "version": 1,
+    "baseUrl": "https://nebula.tv",
+    "description": "Free content from Nebula streaming platform",
+    "authors": ["doGior"],
+    "languages": ["en"],
+    "categories": ["Movies", "Series"],
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.nebula.sky"
+  },
+  {
+    "packageName": "com.manuel09.skyplugin.onlineserietv",
+    "name": "OnlineSerieTV",
+    "version": 1,
+    "baseUrl": "https://onlineserietv.video",
+    "description": "Italian TV series from OnlineSerieTV",
+    "authors": ["doGior"],
+    "languages": ["it"],
+    "categories": ["Series"],
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.onlineserietv.sky"
+  },
+  {
+    "packageName": "com.manuel09.skyplugin.vavoo",
+    "name": "Vavoo",
+    "version": 1,
+    "baseUrl": "https://vavoo.to",
+    "description": "Movies, series and live TV from Vavoo",
+    "authors": ["doGior"],
+    "languages": ["it"],
+    "categories": ["Movies", "Series", "TV"],
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.vavoo.sky"
+  },
+  {
+    "packageName": "com.manuel09.skyplugin.corsaronero",
+    "name": "CorsaroNero",
+    "version": 1,
+    "baseUrl": "https://ilcorsaronero.it",
+    "description": "Italian torrent search from Il Corsaro Nero",
+    "authors": ["doGior"],
+    "languages": ["it"],
+    "categories": ["Movies", "Series", "Torrents"],
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.corsaronero.sky"
+  },
+  {
+    "packageName": "com.manuel09.skyplugin.ilcorsaroviola",
+    "name": "IlCorsaroViola",
+    "version": 1,
+    "baseUrl": "https://ilcorsaroviola.link",
+    "description": "Italian torrent search from Il Corsaro Viola",
+    "authors": ["doGior"],
+    "languages": ["it"],
+    "categories": ["Movies", "Series", "Torrents"],
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.ilcorsaroviola.sky"
+  },
+  {
+    "packageName": "com.manuel09.skyplugin.torrentio",
+    "name": "Torrentio",
+    "version": 1,
+    "baseUrl": "https://torrentio.strem.fun",
+    "description": "Torrent streams via Torrentio/Stremio addon",
+    "authors": ["doGior"],
+    "languages": ["en"],
+    "categories": ["Movies", "Series", "Torrents"],
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.torrentio.sky"
+  },
+  {
+    "packageName": "com.manuel09.skyplugin.youtube",
+    "name": "YouTube",
+    "version": 1,
+    "baseUrl": "https://yewtu.be",
+    "description": "YouTube video search and playback",
+    "authors": ["doGior"],
+    "languages": ["multi"],
+    "categories": ["Movies", "Videos"],
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.youtube.sky"
+  },
+  {
+    "packageName": "com.manuel09.skyplugin.iptv",
+    "name": "IPTV",
+    "version": 1,
+    "baseUrl": "https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists",
+    "description": "Live TV from Italy and Global M3U playlists",
+    "authors": ["doGior"],
+    "languages": ["multi"],
+    "categories": ["Live Stream", "TV"],
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.iptv.sky"
+  },
+  {
+    "packageName": "com.manuel09.skyplugin.simkl",
+    "name": "Simkl",
+    "version": 1,
+    "baseUrl": "https://simkl.com",
+    "description": "Metadata and tracking from Simkl",
+    "authors": ["doGior"],
+    "languages": ["en"],
+    "categories": ["Movies", "Series", "Anime"],
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.simkl.sky"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "name": "doGior IT Plugins",
+  "packageName": "com.manuel09.skyplugin",
+  "author": "doGior",
+  "description": "Italian streaming and live TV repository (Gen 2)",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/plugins.json"
+  ]
+}

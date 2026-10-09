@@ -1,17 +1,17 @@
 [
   {
-    "packageName": "com.manuel09.skyplugin.streamingcommunity",
+    "packageName": "com.finch.skyplugin.streamingcommunity",
     "name": "StreamingCommunity",
     "version": 1,
-    "baseUrl": "https://streamingunity.biz",
+    "baseUrl": "https://streamingunity.fun",
     "description": "Italian movies and TV series from StreamingCommunity",
     "authors": ["doGior"],
     "languages": ["it"],
     "categories": ["Movies", "Series"],
-    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.streamingcommunity.sky"
+    "url": "https://raw.githubusercontent.com/elisamancini/skyplugin-dogiors/main/dist/com.finch.skyplugin.streamingcommunity.sky"
   },
   {
-    "packageName": "com.manuel09.skyplugin.altadefinizione",
+    "packageName": "com.finch.skyplugin.altadefinizione",
     "name": "AltaDefinizione",
     "version": 1,
     "baseUrl": "https://altadefinizione.li",
@@ -19,10 +19,10 @@
     "authors": ["doGior"],
     "languages": ["it"],
     "categories": ["Movies"],
-    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.altadefinizione.sky"
+    "url": "https://raw.githubusercontent.com/elisamancini/skyplugin-dogiors/main/dist/com.finch.skyplugin.altadefinizione.sky"
   },
   {
-    "packageName": "com.manuel09.skyplugin.animeunity",
+    "packageName": "com.finch.skyplugin.animeunity",
     "name": "AnimeUnity",
     "version": 1,
     "baseUrl": "https://animeunity.it",
@@ -30,10 +30,10 @@
     "authors": ["doGior"],
     "languages": ["it"],
     "categories": ["Anime"],
-    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.animeunity.sky"
+    "url": "https://raw.githubusercontent.com/elisamancini/skyplugin-dogiors/main/dist/com.finch.skyplugin.animeunity.sky"
   },
   {
-    "packageName": "com.manuel09.skyplugin.animeworld",
+    "packageName": "com.finch.skyplugin.animeworld",
     "name": "AnimeWorld",
     "version": 1,
     "baseUrl": "https://animeworld.tv",
@@ -41,10 +41,10 @@
     "authors": ["doGior"],
     "languages": ["it"],
     "categories": ["Anime"],
-    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.animeworld.sky"
+    "url": "https://raw.githubusercontent.com/elisamancini/skyplugin-dogiors/main/dist/com.finch.skyplugin.animeworld.sky"
   },
   {
-    "packageName": "com.manuel09.skyplugin.cb01",
+    "packageName": "com.finch.skyplugin.cb01",
     "name": "CB01",
     "version": 1,
     "baseUrl": "https://cb01.tube",
@@ -52,10 +52,10 @@
     "authors": ["doGior"],
     "languages": ["it"],
     "categories": ["Movies", "Series"],
-    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.cb01.sky"
+    "url": "https://raw.githubusercontent.com/elisamancini/skyplugin-dogiors/main/dist/com.finch.skyplugin.cb01.sky"
   },
   {
-    "packageName": "com.manuel09.skyplugin.arte",
+    "packageName": "com.finch.skyplugin.arte",
     "name": "Arte",
     "version": 1,
     "baseUrl": "https://www.arte.tv/it",
@@ -63,10 +63,10 @@
     "authors": ["doGior"],
     "languages": ["it"],
     "categories": ["Movies", "Documentaries"],
-    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.arte.sky"
+    "url": "https://raw.githubusercontent.com/elisamancini/skyplugin-dogiors/main/dist/com.finch.skyplugin.arte.sky"
   },
   {
-    "packageName": "com.manuel09.skyplugin.calciostreaming",
+    "packageName": "com.finch.skyplugin.calciostreaming",
     "name": "CalcioStreaming",
     "version": 1,
     "baseUrl": "https://calciostreaming.click",
@@ -74,10 +74,10 @@
     "authors": ["doGior"],
     "languages": ["it"],
     "categories": ["Sports", "Live Stream"],
-    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.calciostreaming.sky"
+    "url": "https://raw.githubusercontent.com/elisamancini/skyplugin-dogiors/main/dist/com.finch.skyplugin.calciostreaming.sky"
   },
   {
-    "packageName": "com.manuel09.skyplugin.daddylive",
+    "packageName": "com.finch.skyplugin.daddylive",
     "name": "DaddyLive",
     "version": 1,
     "baseUrl": "https://daddyhd.com",
@@ -85,10 +85,10 @@
     "authors": ["doGior"],
     "languages": ["en"],
     "categories": ["Live Stream", "TV"],
-    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.daddylive.sky"
+    "url": "https://raw.githubusercontent.com/elisamancini/skyplugin-dogiors/main/dist/com.finch.skyplugin.daddylive.sky"
   },
   {
-    "packageName": "com.manuel09.skyplugin.huhu",
+    "packageName": "com.finch.skyplugin.huhu",
     "name": "Huhu",
     "version": 1,
     "baseUrl": "https://huhu.to",
@@ -96,10 +96,10 @@
     "authors": ["doGior"],
     "languages": ["it"],
     "categories": ["Live Stream", "TV"],
-    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.huhu.sky"
+    "url": "https://raw.githubusercontent.com/elisamancini/skyplugin-dogiors/main/dist/com.finch.skyplugin.huhu.sky"
   },
   {
-    "packageName": "com.manuel09.skyplugin.nebula",
+    "packageName": "com.finch.skyplugin.nebula",
     "name": "Nebula",
     "version": 1,
     "baseUrl": "https://nebula.tv",
@@ -107,10 +107,10 @@
     "authors": ["doGior"],
     "languages": ["en"],
     "categories": ["Movies", "Series"],
-    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.nebula.sky"
+    "url": "https://raw.githubusercontent.com/elisamancini/skyplugin-dogiors/main/dist/com.finch.skyplugin.nebula.sky"
   },
   {
-    "packageName": "com.manuel09.skyplugin.onlineserietv",
+    "packageName": "com.finch.skyplugin.onlineserietv",
     "name": "OnlineSerieTV",
     "version": 1,
     "baseUrl": "https://onlineserietv.video",
@@ -118,10 +118,10 @@
     "authors": ["doGior"],
     "languages": ["it"],
     "categories": ["Series"],
-    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.onlineserietv.sky"
+    "url": "https://raw.githubusercontent.com/elisamancini/skyplugin-dogiors/main/dist/com.finch.skyplugin.onlineserietv.sky"
   },
   {
-    "packageName": "com.manuel09.skyplugin.vavoo",
+    "packageName": "com.finch.skyplugin.vavoo",
     "name": "Vavoo",
     "version": 1,
     "baseUrl": "https://vavoo.to",
@@ -129,10 +129,10 @@
     "authors": ["doGior"],
     "languages": ["it"],
     "categories": ["Movies", "Series", "TV"],
-    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.vavoo.sky"
+    "url": "https://raw.githubusercontent.com/elisamancini/skyplugin-dogiors/main/dist/com.finch.skyplugin.vavoo.sky"
   },
   {
-    "packageName": "com.manuel09.skyplugin.corsaronero",
+    "packageName": "com.finch.skyplugin.corsaronero",
     "name": "CorsaroNero",
     "version": 1,
     "baseUrl": "https://ilcorsaronero.it",
@@ -140,10 +140,10 @@
     "authors": ["doGior"],
     "languages": ["it"],
     "categories": ["Movies", "Series", "Torrents"],
-    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.corsaronero.sky"
+    "url": "https://raw.githubusercontent.com/elisamancini/skyplugin-dogiors/main/dist/com.finch.skyplugin.corsaronero.sky"
   },
   {
-    "packageName": "com.manuel09.skyplugin.ilcorsaroviola",
+    "packageName": "com.finch.skyplugin.ilcorsaroviola",
     "name": "IlCorsaroViola",
     "version": 1,
     "baseUrl": "https://ilcorsaroviola.link",
@@ -151,10 +151,10 @@
     "authors": ["doGior"],
     "languages": ["it"],
     "categories": ["Movies", "Series", "Torrents"],
-    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.ilcorsaroviola.sky"
+    "url": "https://raw.githubusercontent.com/elisamancini/skyplugin-dogiors/main/dist/com.finch.skyplugin.ilcorsaroviola.sky"
   },
   {
-    "packageName": "com.manuel09.skyplugin.torrentio",
+    "packageName": "com.finch.skyplugin.torrentio",
     "name": "Torrentio",
     "version": 1,
     "baseUrl": "https://torrentio.strem.fun",
@@ -162,10 +162,10 @@
     "authors": ["doGior"],
     "languages": ["en"],
     "categories": ["Movies", "Series", "Torrents"],
-    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.torrentio.sky"
+    "url": "https://raw.githubusercontent.com/elisamancini/skyplugin-dogiors/main/dist/com.finch.skyplugin.torrentio.sky"
   },
   {
-    "packageName": "com.manuel09.skyplugin.youtube",
+    "packageName": "com.finch.skyplugin.youtube",
     "name": "YouTube",
     "version": 1,
     "baseUrl": "https://yewtu.be",
@@ -173,10 +173,10 @@
     "authors": ["doGior"],
     "languages": ["multi"],
     "categories": ["Movies", "Videos"],
-    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.youtube.sky"
+    "url": "https://raw.githubusercontent.com/elisamancini/skyplugin-dogiors/main/dist/com.finch.skyplugin.youtube.sky"
   },
   {
-    "packageName": "com.manuel09.skyplugin.iptv",
+    "packageName": "com.finch.skyplugin.iptv",
     "name": "IPTV",
     "version": 1,
     "baseUrl": "https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists",
@@ -184,10 +184,10 @@
     "authors": ["doGior"],
     "languages": ["multi"],
     "categories": ["Live Stream", "TV"],
-    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.iptv.sky"
+    "url": "https://raw.githubusercontent.com/elisamancini/skyplugin-dogiors/main/dist/com.finch.skyplugin.iptv.sky"
   },
   {
-    "packageName": "com.manuel09.skyplugin.simkl",
+    "packageName": "com.finch.skyplugin.simkl",
     "name": "Simkl",
     "version": 1,
     "baseUrl": "https://simkl.com",
@@ -195,6 +195,6 @@
     "authors": ["doGior"],
     "languages": ["en"],
     "categories": ["Movies", "Series", "Anime"],
-    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.simkl.sky"
+    "url": "https://raw.githubusercontent.com/elisamancini/skyplugin-dogiors/main/dist/com.finch.skyplugin.simkl.sky"
   }
 ]

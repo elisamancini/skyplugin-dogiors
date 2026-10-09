@@ -9,7 +9,7 @@ Italian streaming, anime, live TV, and torrent plugins for [SkyStream](https://g
 ### 🎥 Movies & TV Series
 | Plugin | Language | Source |
 |:-------|:---------|:-------|
-| **StreamingCommunity** | 🇮🇹 IT | streamingunity.biz |
+| **StreamingCommunity** | 🇮🇹 IT | streamingunity.fun |
 | **AltaDefinizione** | 🇮🇹 IT | altadefinizionez.skin |
 | **CB01** | 🇮🇹 IT | cb01uno.uno |
 | **Nebula** | 🇬🇧 EN | nebula.tv |

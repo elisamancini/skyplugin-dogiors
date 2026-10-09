@@ -1,8 +1,8 @@
 {
-  "packageName": "com.manuel09.skyplugin.streamingcommunity",
+  "packageName": "com.finch.skyplugin.streamingcommunity",
   "name": "StreamingCommunity",
   "version": 1,
-  "baseUrl": "https://streamingunity.biz",
+  "baseUrl": "https://streamingunity.fun",
   "description": "Italian movies and TV series from StreamingCommunity",
   "authors": ["doGior"],
   "languages": ["it"],
